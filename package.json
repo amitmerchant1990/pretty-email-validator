@@ -13,8 +13,10 @@
     "url": "http://www.amitmerchant.com"
   },
   "files": [
-    "index.js"
+    "index.js",
+    "test.js"
   ],
+  "main": "index.js",
   "scripts": {
     "test": "test.js"
   },
