@@ -1,0 +1,43 @@
+{
+  "name": "pretty-email-validator",
+  "version": "1.0",
+  "description": "Pretty validation for emails",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/get-stdin.git"
+  },
+  "author": {
+    "name": "Amit Merchant",
+    "email": "bullredeyes@gmail.com",
+    "url": "http://www.amitmerchant.com"
+  },
+
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "std",
+    "stdin",
+    "stdio",
+    "concat",
+    "buffer",
+    "stream",
+    "process",
+    "stream"
+  ],
+  "bugs": {
+    "url": "https://github.com/sindresorhus/get-stdin/issues"
+  },
+  "homepage": "",
+  "_npmUser": {
+    "name": "amit_merchant",
+    "email": "bullredeyes@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "amit_merchant",
+      "email": "bullredeyes@gmail.com"
+    }
+  ]
+}
