@@ -13,4 +13,4 @@ function prettyValidateEmail(email) {
 
 }
 
-module.exports = validateEmail;
+module.exports = prettyValidateEmail;
