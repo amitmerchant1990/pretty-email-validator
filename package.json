@@ -1,6 +1,6 @@
 {
   "name": "pretty-email-validator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Pretty validation for emails",
   "license": "MIT",
   "repository": {
@@ -16,14 +16,9 @@
     "index.js"
   ],
   "keywords": [
-    "std",
-    "stdin",
-    "stdio",
-    "concat",
-    "buffer",
-    "stream",
-    "process",
-    "stream"
+    "email",
+    "validation",
+    "pretty",
   ],
   "bugs": {
     "url": "https://github.com/amitmerchant1990/pretty-email-validator/issues"
