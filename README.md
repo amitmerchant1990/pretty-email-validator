@@ -1,5 +1,5 @@
 # Pretty Email Validator
-[![NPM](https://nodei.co/npm/pretty-email-validator.png)](https://nodei.co/npm/pretty-email-validator/)
+[![NPM](https://nodei.co/npm/pretty-email-validator.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/pretty-email-validator/)
 > Pretty validation for emails
 
 This is a small node module which checks for the validity of emails.
