@@ -1,5 +1,5 @@
 [![pretty-email-validator](https://raw.githubusercontent.com/amitmerchant1990/pretty-email-validator/master/res/email-validator.png)](#)
-# Pretty Email Validator
+# Pretty Email Validator [![npm version](https://badge.fury.io/js/pretty-email-validator.svg)](https://badge.fury.io/js/pretty-email-validator)
 [![NPM](https://nodei.co/npm/pretty-email-validator.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/pretty-email-validator/)
 > Pretty validation for emails
 
